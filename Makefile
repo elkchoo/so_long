@@ -49,7 +49,7 @@ $(MLX): minilibx-linux
 	make -C minilibx-linux
 
 minilibx-linux:
-	wget https://cdn.intra.42.fr/document/document/44485/minilibx-linux.tgz
+	wget https://cdn.intra.42.fr/document/document/46415/minilibx-linux.tgz
 	tar -xzf minilibx-linux.tgz
 	rm -f minilibx-linux.tgz
 
